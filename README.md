@@ -1,6 +1,8 @@
 # Matlab Warren Truss Solver
 For ESC103.
 
+Update: For a full graphical version of this solver, go to [here](http://truss.engscitools.ca) and for the code, check it out [here](https://github.com/EngSci-Tools/Truss-Solver).
+
 By default, this will construct and solve for the internal forces of a Warren truss.
 There is no reason the truss has to be a Warren truss, however. The only restriction is that each joint is connected to no more than four members so that each joint is solvable. Every force is assumed to be in the -y direction for simplicity of calculating moments.
 
